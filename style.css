@@ -5,6 +5,7 @@
 	overflow:hidden;
 	border: 1px solid #444444;
 	overflow-y:auto; overflow-x:auto;
+	margin: center;
 }
 
 img {
